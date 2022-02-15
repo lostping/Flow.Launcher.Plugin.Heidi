@@ -1,0 +1,35 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <!--  Plugin Info  -->
+    <system:String x:Key="flowlauncher_plugin_Heidi_plugin_name">Heidi Session Starter</system:String>
+    <system:String x:Key="flowlauncher_plugin_Heidi_plugin_description">Starte deine Heidi-Sitzungen</system:String>
+
+    <!--  Settings  -->
+    <system:String x:Key="flowlauncher_plugin_Heidi_settings_addHeidi">Heidi immer zu den Suchergebnissen hinzufügen?</system:String>
+    <system:String x:Key="flowlauncher_plugin_Heidi_settings_isPortable">Ist Heidi portabel?</system:String>
+    <system:String x:Key="flowlauncher_plugin_Heidi_settings_HeidiExePath">Pfad zur Heidi Programmdatei</system:String>
+    <system:String x:Key="flowlauncher_plugin_Heidi_settings_HeidiOpenExePath">HeidiSQL .EXE wählen</system:String>
+    <system:String x:Key="flowlauncher_plugin_Heidi_settings_HeidiDownload">Portables HeidiSQL herunterladen</system:String>
+    
+    <!-- Main -->
+    <system:String x:Key="flowlauncher_plugin_Heidi_start">Starte</system:String>
+    <system:String x:Key="flowlauncher_plugin_Heidi_open">Öffne</system:String>
+    <system:String x:Key="flowlauncher_plugin_Heidi_default">Standard</system:String>
+    <system:String x:Key="flowlauncher_plugin_Heidi_session">Sitzung</system:String>
+    <system:String x:Key="flowlauncher_plugin_Heidi_host">Host</system:String>
+    <system:String x:Key="flowlauncher_plugin_Heidi_without">ohne</system:String>
+    <system:String x:Key="flowlauncher_plugin_Heidi_settings">Einstellungen</system:String>
+    <system:String x:Key="flowlauncher_plugin_Heidi_openConfigs">Öffne HeidiSQL Konfiguration</system:String>
+    <system:String x:Key="flowlauncher_plugin_Heidi_openDialogExe">Ausführbare Datei</system:String>
+    
+    <!-- Messages -->
+    <system:String x:Key="flowlauncher_plugin_Heidi_pathNotSet">Pfad nicht eingestellt</system:String>
+    <system:String x:Key="flowlauncher_plugin_Heidi_configPlugin">Bitte konfiguriere das Heidi plugin!</system:String>
+    <system:String x:Key="flowlauncher_plugin_Heidi_error">Fehler</system:String>
+    <system:String x:Key="flowlauncher_plugin_Heidi_download">Download</system:String>
+    <system:String x:Key="flowlauncher_plugin_Heidi_sessionFolderMissing">Sitzungspfad fehlt</system:String>
+
+</ResourceDictionary>

@@ -1,0 +1,12 @@
+{
+  "ActionKeyword": "hs",
+  "Author": "LostPing",
+  "Description": "Launch Heidi Sessions",
+  "ExecuteFileName": "Flow.Launcher.Plugin.Heidi.dll",
+  "ID": "76148ECE-AA72-4C68-AFD5-54BA8A3C1F61",
+  "IcoPath": "icon.png",
+  "Language": "csharp",
+  "Name": "Heidi",
+  "Version": "1.0.0",
+  "Website": "https://github.com/lostping/Flow.Launcher.Plugin.Heidi"
+}
